@@ -1,5 +1,5 @@
 //
-//  MetroCalc.h
+//  MeteoCalc.h
 //  Calc
 //
 //  Created by David Braun on 08.07.20.
